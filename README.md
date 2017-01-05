@@ -1,9 +1,10 @@
---- To compile
+## To compile
 
 make gcc
 
---- To run
+## To run
 
 ./bin/run.out
 
---- Tests are in the main.cpp file
+## Tests are in the main.cpp file
+
